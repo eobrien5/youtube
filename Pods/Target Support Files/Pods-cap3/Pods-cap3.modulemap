@@ -1,0 +1,6 @@
+framework module Pods_cap3 {
+  umbrella header "Pods-cap3-umbrella.h"
+
+  export *
+  module * { export * }
+}
