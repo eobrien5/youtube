@@ -76,7 +76,6 @@ class SignUpViewController: UIViewController {
                 }
             }
         }
-        
     }
     
     func showError(_ message:String) {
